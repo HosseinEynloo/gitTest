@@ -1,0 +1,2 @@
+rootProject.name = "gitPracticeAndroid"
+include ':app'
